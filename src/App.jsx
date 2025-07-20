@@ -1,6 +1,6 @@
 import React from 'react';
 import SchemaBuilder from './pages/SchemaBuilder';
-import './app.css';
+import './App.css';
 
 const App = () => <SchemaBuilder />;
 
